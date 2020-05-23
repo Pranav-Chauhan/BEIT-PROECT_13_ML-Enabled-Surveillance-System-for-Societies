@@ -1,0 +1,4 @@
+ML-Enabled-Surveillance-System-for-Societies
+
+dataset : resnet50_coco_best_v2.0.1.h5
+Link : https://imageai.readthedocs.io/en/latest/detection/
